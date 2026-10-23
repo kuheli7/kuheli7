@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://kuheli7.github.io/lumi-baby-moth/">
-    <img src="assets/lumi-banner.png" width="640" alt="Lumi's Night Shift: the tiny moth who starts a new hobby every night" />
+    <img src="assets/meet-lumi.svg" width="720" alt="Lumi's Night Shift: the tiny moth who starts a new hobby every night. &quot;Ooh, shiny. New hobby.&quot;" />
   </a>
 </p>
 
@@ -82,6 +82,6 @@ Small business sites, because every café and mithai shop deserves a good menu:
   <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by! Lumi's off to sleep. See you on the next commit." />
 </p>
 
-<p align="center"><sub>Currently: trying to be better, one commit at a time.</sub></p>
-
 <h3 align="center"><i>I build things that are useful, then make them a little delightful. ✨</i></h3>
+
+<p align="center"><i>Currently: trying to be better, one commit at a time.</i></p>
