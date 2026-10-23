@@ -15,6 +15,7 @@
 - 📊 **Data and 🤖 AI/ML, side by side.** Explainable models (LightGBM with SHAP), and LLMs kept on a short leash so they can't make things up.
 - ♿ **Accessibility and delight.** Software should work for everyone, and it's allowed to be a little fun.
 - 🎓 MCA student at CHRIST University.
+- 🔍 **Open to full-stack / SDE roles from 2027**, and happy to talk cloud or data and AI/ML work too.
 
 ## 🛠️ Tech stack
 
@@ -41,9 +42,15 @@
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| 🌳 [**Policy Tree Editor**](https://github.com/kuheli7/tree-editor) | A visual editor for compliance policy trees: drag-and-drop nodes, checks for orphans and circular references, auto-layout, undo/redo and JSON import/export | Next.js · TypeScript · React Flow · Zustand · Tailwind |
+| 🌳 [**Policy Tree Editor**](https://github.com/kuheli7/tree-editor) · [live](https://tree-editor-glynac.vercel.app/tree) | A visual editor for compliance policy trees: drag-and-drop nodes, checks for orphans and circular references, auto-layout, undo/redo and JSON import/export | Next.js · TypeScript · React Flow · Zustand · Tailwind |
 | 🧠 [**MindCare**](https://github.com/kuheli7/MindCare) · [live](https://mindcaree.netlify.app/) | A team-built mental well-being platform for students, with assessments for stress, anxiety, burnout and sleep, JWT auth and separate student and admin views | React · Node.js · Express · MongoDB · JWT |
 | 🔌 [**HubSpot Deals ETL**](https://github.com/kuheli7/hubspot-deals-etl) | Pulls HubSpot CRM deals into PostgreSQL with checkpoints and rate limiting. A scan can pause, resume and recover after a crash | Flask-RESTX · dlt · PostgreSQL |
+
+<p align="center">
+  <a href="https://tree-editor-glynac.vercel.app/tree"><img src="assets/demo-tree-editor.gif" width="49%" alt="Policy Tree Editor demo: opening a node's properties, searching nodes, adding a node from a template, auto-layout and dark mode" /></a>
+  <a href="https://mindcaree.netlify.app/"><img src="assets/demo-mindcare.gif" width="49%" alt="MindCare demo: the home page and the list of assessments for stress, anxiety, depression, burnout and sleep" /></a>
+  <br /><sub>🎬 Recorded on the live sites: Policy Tree Editor (left) and MindCare (right)</sub>
+</p>
 
 ### ☁️ Cloud
 
@@ -57,6 +64,11 @@
 | --- | --- | --- |
 | 💳 [**CreditLens**](https://github.com/kuheli7/credit-risk-platform) · [live](https://creditlens-credit-risk-platform.onrender.com/?page=scoring) | Credit risk scoring with explainable underwriting (SHAP), policy rule derivation and natural-language questions about the portfolio | FastAPI · LightGBM · SHAP · Groq · Docker |
 | 🎙️ [**VoiceNav**](https://github.com/kuheli7/VoiceNav) | Hands-free browsing for people who can't use a mouse or keyboard: say "click add to cart" or "open the cheapest one". It runs a local LLM, so there's no cloud and no API cost. Accuracy went from 64% to 94% on a 50-command test set (82% on held-out commands) | JavaScript · FastAPI · Ollama |
+
+<p align="center">
+  <a href="https://creditlens-credit-risk-platform.onrender.com/?page=scoring"><img src="assets/demo-creditlens.gif" width="70%" alt="CreditLens demo: loading a historical applicant, scoring them, then reading the decision and the SHAP chart that explains it" /></a>
+  <br /><sub>🎬 CreditLens live: load an applicant, score them, see why</sub>
+</p>
 
 ## 🦋 Meet Lumi
 
