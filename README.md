@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hi there, I'm Kuheli Begum: full-stack developer, cloud builder, data and AI/ML explorer. I build things that are useful, then make them a little delightful." />
+  <img src="assets/header.svg" width="100%" alt="Hi there, I'm Kuheli Begum: full-stack developer, cloud builder, data and AI/ML explorer." />
 </p>
 
 <p align="center">
@@ -82,4 +82,6 @@ Small business sites, because every café and mithai shop deserves a good menu:
   <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by! Lumi's off to sleep. See you on the next commit." />
 </p>
 
-<p align="center"><i>Currently: trying to be better, one commit at a time.</i></p>
+<p align="center"><sub>Currently: trying to be better, one commit at a time.</sub></p>
+
+<h3 align="center"><i>I build things that are useful, then make them a little delightful. ✨</i></h3>
