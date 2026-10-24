@@ -88,6 +88,14 @@ Small business sites, because every café and mithai shop deserves a good menu:
 - 🌿 [**Sip & Sage**](https://github.com/kuheli7/sip-and-sage-cafe): a café menu with table QR codes, a cart and a dark/light theme
 - 🥤 [**Brew & Bounce**](https://github.com/kuheli7/brew-and-bounce): "Big coffee. Bigger moods."
 
+## 🌱 Where it started
+
+My first websites, built in my first trimester at CHRIST University:
+
+- 🏋️ [**Fitness Gym Website**](https://github.com/kuheli7/FitnessWebsite) · [live](https://kuheli7.github.io/FitnessWebsite/FitnessGymWebsite/): a multi-page gym site with a video header, trainer profiles, a gallery and locations
+- ☕ [**CoffeeHub**](https://github.com/kuheli7/CoffeeSite) · [live](https://kuheli7.github.io/CoffeeSite/coffeehome.html): a coffee shop site with a home page video and explore, feedback and location pages
+- 🎤 [**Guest Speaker Feedback Form**](https://github.com/kuheli7/GuestSpeakerFeedbackForm) · [live](https://kuheli7.github.io/GuestSpeakerFeedbackForm/2547230_Lab4_Final.html): collects a name, email, rating and comment after a guest lecture, and shows every response on the page
+
 <br />
 
 <p align="center">
