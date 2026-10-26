@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kuheli-begum/"><img src="https://img.shields.io/badge/LinkedIn-kuheli--begum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Kuheli on LinkedIn" /></a>
+  <a href="https://kuheli7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kuheli7.vercel.app-f6cf6a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1b1535" alt="Visit Kuheli's portfolio website" /></a>
 </p>
 
 ## 🦋 About me
